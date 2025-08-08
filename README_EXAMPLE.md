@@ -1,6 +1,6 @@
 # 📂Example Project Laravel
 
-An example project has been designed for you, dear ones. Follow the instructions below and the HelloController.php and web.php files.
+An example project has been designed for you, dear ones. Follow the instructions below and the `HelloController.php` and `web.php` files.
 
 ---
 
